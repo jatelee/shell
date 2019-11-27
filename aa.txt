@@ -1,4 +1,4 @@
 ab
-a
-s
-d
+as
+ss
+ds
